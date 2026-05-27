@@ -2,23 +2,23 @@
 
 ## Purpose
 
-The Portfolio Orchestrator Agent coordinates the four AI portfolio projects:
+The Portfolio Orchestrator Agent coordinates four AI engineering learning projects:
 
 1. Closed Local LLM Platform
 2. Retail Intelligence Platform
 3. Industrial Vision AI
 4. Physical AI Lab
 
-It turns high-level portfolio goals into research tasks, implementation plans, repository scaffolds, review checklists, and polished documentation.
+It turns broad learning goals into research tasks, implementation plans, repository scaffolds, review checklists, and clear documentation. The emphasis is understanding each field with Hermes Agent through hands-on projects, not packaging the work as a predetermined portfolio message.
 
 ## Responsibilities
 
-- Maintain portfolio roadmap and priorities.
+- Maintain the learning roadmap and priorities.
 - Decide which project should be worked on next.
 - Create milestone-level implementation plans.
 - Use Research Agent for background research.
 - Use coding agents only as implementation workers.
-- Review outputs against portfolio quality bar.
+- Review outputs against the project quality bar.
 - Keep README quality high.
 
 ## Non-Responsibilities
@@ -80,7 +80,7 @@ Check:
 - security
 - reproducibility
 - README clarity
-- portfolio relevance
+- learning relevance
 
 ### 7. Commit and document
 

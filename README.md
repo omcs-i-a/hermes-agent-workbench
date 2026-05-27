@@ -62,7 +62,7 @@ Reusable materials for applying Hermes Agent to many projects:
 
 ### 2. AI engineering portfolio execution
 
-A four-project portfolio plan designed to demonstrate practical AI engineering:
+A four-project learning plan for understanding practical AI engineering with Hermes Agent:
 
 1. Closed Local LLM Platform
 2. Retail Intelligence Platform
@@ -221,7 +221,7 @@ Review dimensions:
 - reproducibility
 - test coverage
 - documentation quality
-- portfolio signal strength
+- learning value and engineering clarity
 
 ### Mode 5: Watcher
 
@@ -298,7 +298,7 @@ Enterprise-style local LLM platform with:
 - RBAC
 - Docker
 
-Primary signal:
+Learning focus:
 
 - enterprise AI system design
 - security
@@ -317,7 +317,7 @@ Demand forecasting and order optimization platform with:
 - dashboard
 - Docker and CI/CD
 
-Primary signal:
+Learning focus:
 
 - data engineering
 - forecasting
@@ -334,7 +334,7 @@ Segmentation or anomaly-detection project with:
 - Dockerized serving
 - visual demo outputs
 
-Primary signal:
+Learning focus:
 
 - vision AI
 - PyTorch
@@ -351,9 +351,9 @@ Small VLM-to-action project with:
 - action planning
 - ROS2-compatible interface or simulator
 
-Primary signal:
+Learning focus:
 
-- Physical AI interest backed by implementation
+- Physical AI understanding backed by implementation
 - VLM/action architecture thinking
 - robotics interface awareness
 

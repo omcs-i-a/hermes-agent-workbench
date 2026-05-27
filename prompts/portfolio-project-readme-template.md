@@ -1,6 +1,6 @@
 # Portfolio Project README Template
 
-Use this template for each portfolio repository.
+Use this template for each AI engineering learning project repository.
 
 ```markdown
 # [Project Name]
@@ -13,7 +13,7 @@ Explain the business or engineering problem.
 
 Example:
 
-> This project demonstrates how to design a closed-network enterprise LLM platform with local inference, RAG, RBAC, PII masking, prompt injection defenses, and audit logging.
+> This project explores how to design a closed-network enterprise LLM platform with local inference, RAG, RBAC, PII masking, prompt injection defenses, and audit logging.
 
 ## Architecture
 

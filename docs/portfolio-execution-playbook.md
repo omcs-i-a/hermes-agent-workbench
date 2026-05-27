@@ -1,10 +1,10 @@
 # Portfolio Execution Playbook
 
-This playbook defines how to use Hermes Agent to build the four portfolio projects.
+This playbook defines how to use Hermes Agent to build four AI engineering learning projects.
 
 ## Operating Model
 
-Hermes should act as the portfolio orchestrator.
+Hermes should act as the learning and project orchestrator.
 
 - Hermes owns planning, documentation, review, and verification.
 - Coding agents such as Codex can be used as implementation workers.
@@ -75,7 +75,7 @@ Review for:
 - reproducibility
 - README quality
 - architecture clarity
-- portfolio signal strength
+- learning value and engineering clarity
 
 ### 6. Polish
 
@@ -172,7 +172,7 @@ prompts/portfolio-project-readme-template.md
 
 ## Quality Bar Before Publishing
 
-Before calling a project portfolio-ready, verify:
+Before publishing or sharing a project, verify:
 
 - README quick start works.
 - Architecture diagram is accurate.

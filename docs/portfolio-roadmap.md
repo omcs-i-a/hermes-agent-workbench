@@ -1,14 +1,14 @@
 # AI / Enterprise Portfolio Roadmap
 
-This roadmap turns the target portfolio idea into a concrete multi-repository plan. The goal is to build four portfolio projects that demonstrate enterprise AI, MLOps, security, system design, and practical implementation ability.
+This roadmap turns four AI engineering themes into a concrete multi-repository learning plan. The goal is to use Hermes Agent to understand enterprise AI, MLOps, security, system design, vision AI, and Physical AI through hands-on projects.
 
-## Portfolio Direction
+## Learning Direction
 
-Target message:
+Guiding intent:
 
-> I can design, implement, secure, deploy, and explain practical AI systems for enterprise use cases.
+> Learn each field by building practical systems with Hermes Agent, then document the design decisions, trade-offs, and limitations clearly.
 
-The portfolio should not look like isolated notebooks. It should look like production-aware AI engineering:
+The projects should not be isolated notebooks. They should be learning artifacts that expose production-aware AI engineering decisions:
 
 - Architecture diagrams.
 - Security considerations.
@@ -42,10 +42,10 @@ Alternative: keep each project as a separate repository and use `architecture-do
 
 Reasoning:
 
-- Project 1 best demonstrates enterprise AI, security, backend/frontend, and system design.
+- Project 1 is the best starting point for understanding enterprise AI, security, backend/frontend integration, and system design.
 - Project 2 maps directly to demand forecasting, optimization, and MLOps requirements.
-- Project 3 fills PyTorch/Vision/W&B credibility.
-- Project 4 shows Physical AI interest with practical proof, without requiring full robotics hardware.
+- Project 3 is the best place to learn PyTorch, Vision, and W&B through an inspectable model pipeline.
+- Project 4 is the smallest practical path to understand Physical AI concepts without requiring full robotics hardware.
 
 ---
 
@@ -59,7 +59,7 @@ Enterprise Closed LLM Platform
 
 Build an internal closed-network AI Agent platform with local LLM inference, RAG, guardrails, PII masking, RBAC, and audit logging.
 
-This is the most important portfolio project because it demonstrates enterprise AI system design and security awareness.
+This is the first project because it is the best hands-on environment for learning enterprise AI system design and security-aware architecture.
 
 ## Core Architecture
 
@@ -182,7 +182,7 @@ Demonstrate:
 - endpoint permissions
 - audit viewer role
 
-## What This Demonstrates
+## What This Helps You Understand
 
 - LLM engineering
 - Enterprise security
@@ -297,7 +297,7 @@ flowchart LR
 - CI/CD with GitHub Actions.
 - Dashboard showing forecast and recommended order quantities.
 
-## What This Demonstrates
+## What This Helps You Understand
 
 - Demand forecasting
 - Mathematical optimization
@@ -354,7 +354,7 @@ Why segmentation:
 
 - Strong PyTorch signal.
 - Practical manufacturing/inspection relevance.
-- Easier to visually demonstrate.
+- Easier to inspect visually.
 - Connects well to industrial AI case studies.
 
 ## Candidate Use Cases
@@ -398,7 +398,7 @@ flowchart LR
 - Visual demo: image in, mask overlay out.
 - Metrics: IoU, Dice, precision/recall.
 
-## What This Demonstrates
+## What This Helps You Understand
 
 - PyTorch
 - Vision AI
@@ -495,9 +495,9 @@ flowchart LR
 - ROS2-compatible command interface, even if simulated.
 - Clear README explaining limitations.
 
-## What This Demonstrates
+## What This Helps You Understand
 
-- Physical AI interest backed by implementation.
+- Physical AI understanding backed by implementation.
 - VLM-to-action architecture thinking.
 - Robotics interface awareness.
 - Local model experimentation.
@@ -659,7 +659,7 @@ Use a portfolio pipeline:
 
 ## Portfolio Quality Bar
 
-A project is portfolio-ready when:
+A project is ready to publish or share when:
 
 - It runs from README instructions.
 - It has an architecture diagram.
